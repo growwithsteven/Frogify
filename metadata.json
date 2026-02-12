@@ -1,0 +1,7 @@
+{
+  "name": "Frogify",
+  "description": "The ultimate frog identification and tracking companion for nature enthusiasts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
